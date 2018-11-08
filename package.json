@@ -1,0 +1,19 @@
+{
+  "name": "soundex",
+  "version": "1.0.0",
+  "description": "soundex translator w/ tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggulati3/soundex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggulati3/soundex/issues"
+  },
+  "homepage": "https://github.com/ggulati3/soundex#readme"
+}
